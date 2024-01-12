@@ -21,7 +21,7 @@ const App = () => {
 
   return (
     <View>
-      <Text>Hello : {user} </Text>
+      <Text>Hellos : {user} </Text>
 
       <View style={{margin: 10}}>
         <Button title="setData" onPress={() => setData()} />
